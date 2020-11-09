@@ -13,6 +13,9 @@
 		EEDFCD9025591A71003E2F45 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEDFCD8E25591A71003E2F45 /* Main.storyboard */; };
 		EEDFCD9225591A76003E2F45 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EEDFCD9125591A76003E2F45 /* Assets.xcassets */; };
 		EEDFCD9525591A76003E2F45 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEDFCD9325591A76003E2F45 /* LaunchScreen.storyboard */; };
+		EEDFCD9F255928D4003E2F45 /* constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEDFCD9E255928D4003E2F45 /* constants.swift */; };
+		EEDFCDA125592D15003E2F45 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEDFCDA025592D15003E2F45 /* Video.swift */; };
+		EEDFCDA325592DAC003E2F45 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEDFCDA225592DAC003E2F45 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		EEDFCD9125591A76003E2F45 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EEDFCD9425591A76003E2F45 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EEDFCD9625591A76003E2F45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EEDFCD9E255928D4003E2F45 /* constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = constants.swift; sourceTree = "<group>"; };
+		EEDFCDA025592D15003E2F45 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
+		EEDFCDA225592DAC003E2F45 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,9 @@
 				EEDFCD9125591A76003E2F45 /* Assets.xcassets */,
 				EEDFCD9325591A76003E2F45 /* LaunchScreen.storyboard */,
 				EEDFCD9625591A76003E2F45 /* Info.plist */,
+				EEDFCD9E255928D4003E2F45 /* constants.swift */,
+				EEDFCDA025592D15003E2F45 /* Video.swift */,
+				EEDFCDA225592DAC003E2F45 /* Model.swift */,
 			);
 			path = "YT-APP";
 			sourceTree = "<group>";
@@ -141,6 +150,9 @@
 				EEDFCD8D25591A71003E2F45 /* ViewController.swift in Sources */,
 				EEDFCD8925591A71003E2F45 /* AppDelegate.swift in Sources */,
 				EEDFCD8B25591A71003E2F45 /* SceneDelegate.swift in Sources */,
+				EEDFCDA325592DAC003E2F45 /* Model.swift in Sources */,
+				EEDFCD9F255928D4003E2F45 /* constants.swift in Sources */,
+				EEDFCDA125592D15003E2F45 /* Video.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
